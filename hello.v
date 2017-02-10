@@ -1,7 +1,7 @@
 module main;
 	initial
 		begin
-			$display("DIT ME MAY");
+			$display("DIT ME TAO");
 			$finish;
 		end
 endmodule
